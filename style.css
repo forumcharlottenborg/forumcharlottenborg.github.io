@@ -1,0 +1,32 @@
+	.image{
+			width: 340px;
+			margin-left: 24px;
+		}
+
+		.full{margin-top: 44px; margin-left: 24px; width: 1200px;}
+		.left-h1-div{margin-top: 32px; margin-left: 24px; width: 640px;}
+		.left-h2-div{margin-top: 32px; width: 640px;}
+		#workshops{width: 100%}
+		.address{
+			
+		}
+		.box{margin-left:5px; width: 100%}
+
+		body {background-color: black; line-height: 0.6;}
+		h1 {color: red; font-family: ForumLogo; font-size: 28px; font-weight: lighter; margin-left: 24px;}
+		h2 {color: red; font-family: ForumLogo; font-style: italic; font-size: 16px; line-height: 1.6;}
+		h3 {color: red; font-family: times; font-style: italic; font-weight: lighter; font-size: 20px; margin-left: 24px;}
+		p {color: red; font-family: ForumLogo;  font-weight: lighter;
+			font-size: 18px; line-height: 20px;}
+		a {text-decoration: none; color: red; line-height:}
+		a:hover {color:white;}
+
+		@font-face {
+  			font-family: ForumLogo;
+  			src: url(AlteHaasGroteskRegular.ttf);
+		}
+
+		@font-face {
+  			font-family: ForumText;
+  			src: url(larish_neue_semibold_italic.otf);
+		}
